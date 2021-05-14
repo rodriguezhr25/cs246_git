@@ -2,4 +2,5 @@ This is my file
 
 This is a test
 
-This is different
+New line
+
